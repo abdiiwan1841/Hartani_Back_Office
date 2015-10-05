@@ -1,0 +1,129 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="Columns" iskey="true" value="19">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Width">36</property>
+      <property name="Name">colNoID</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Width">56</property>
+      <property name="Name">colIDAlamat</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="VisibleIndex">16</property>
+      <property name="Visible">true</property>
+      <property name="Width">61</property>
+      <property name="Name">colIsActive</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="VisibleIndex">1</property>
+      <property name="Visible">true</property>
+      <property name="Width">73</property>
+      <property name="Name">colGajiPokok</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="VisibleIndex">2</property>
+      <property name="Visible">true</property>
+      <property name="Width">70</property>
+      <property name="Name">colTunjangan</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="VisibleIndex">3</property>
+      <property name="Visible">true</property>
+      <property name="Width">82</property>
+      <property name="Name">colFaktorKomisi</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="VisibleIndex">4</property>
+      <property name="Visible">true</property>
+      <property name="Width">78</property>
+      <property name="Name">colUangMakan</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="VisibleIndex">5</property>
+      <property name="Visible">true</property>
+      <property name="Width">73</property>
+      <property name="Name">colPremiHadir</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="VisibleIndex">6</property>
+      <property name="Visible">true</property>
+      <property name="Width">48</property>
+      <property name="Name">colBonus</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="VisibleIndex">7</property>
+      <property name="Visible">true</property>
+      <property name="Width">64</property>
+      <property name="Name">colInsentive</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="VisibleIndex">8</property>
+      <property name="Visible">true</property>
+      <property name="Width">124</property>
+      <property name="Name">colTunjanganKesehatan</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="VisibleIndex">9</property>
+      <property name="Visible">true</property>
+      <property name="Width">60</property>
+      <property name="Name">colLainLain</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="VisibleIndex">0</property>
+      <property name="Visible">true</property>
+      <property name="Width">86</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Count</property>
+        <property name="DisplayFormat">{0}</property>
+        <property name="FieldName">KodePegawai</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">colKodePegawai</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="VisibleIndex">10</property>
+      <property name="Visible">true</property>
+      <property name="Width">89</property>
+      <property name="Name">colNamaPegawai</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="VisibleIndex">11</property>
+      <property name="Visible">true</property>
+      <property name="Width">41</property>
+      <property name="Name">colKota</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="VisibleIndex">12</property>
+      <property name="Visible">true</property>
+      <property name="Width">48</property>
+      <property name="Name">colNoHP</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="VisibleIndex">13</property>
+      <property name="Visible">true</property>
+      <property name="Width">83</property>
+      <property name="Name">colTanggalLahir</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="VisibleIndex">14</property>
+      <property name="Visible">true</property>
+      <property name="Width">90</property>
+      <property name="Name">colTanggalMasuk</property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="VisibleIndex">15</property>
+      <property name="Visible">true</property>
+      <property name="Width">91</property>
+      <property name="Name">colMassaJabatan</property>
+    </property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowFooter">true</property>
+    <property name="ShowGroupPanel">false</property>
+    <property name="ColumnAutoWidth">false</property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

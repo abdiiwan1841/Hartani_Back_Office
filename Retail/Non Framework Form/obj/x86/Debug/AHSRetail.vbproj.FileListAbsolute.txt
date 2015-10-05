@@ -1,0 +1,341 @@
+D:\TETAP JAYA\BO\Retail\bin\x86\Debug\VPointRetailSystem.exe.config
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\Interop.BarTender.dll
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\Interop.CRUFLTBL.dll
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\AHSRetail.vbproj.ResolveComReference.cache
+D:\TETAP JAYA\BO\Retail\bin\x86\Debug\VPointRetailSystem.exe
+D:\TETAP JAYA\BO\Retail\bin\x86\Debug\VPointRetailSystem.pdb
+D:\TETAP JAYA\BO\Retail\bin\x86\Debug\VPointRetailSystem.xml
+D:\TETAP JAYA\BO\Retail\bin\x86\Debug\System.Data.SQLite.Linq.dll
+D:\TETAP JAYA\BO\Retail\bin\x86\Debug\Interop.BarTender.dll
+D:\TETAP JAYA\BO\Retail\bin\x86\Debug\Interop.CRUFLTBL.dll
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmLaporan.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmDaftarMutasiWilayah.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmDaftarUser.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmServiceSQLServer.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmLaporanLabaKotorPerhari.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmLaporanLabaKotorPerBarang.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.FrmCekHargaJual.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.FrmDownloadPenjualanKasir.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferKodeBarangD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferKodeBarang.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriRevisiJual.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriRevisiJualD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriRuleMutasi.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmHasilPostingNonStock.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriRevisiBeli.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriStockOpnameD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriStockOpname.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmLaporanTopTenSales.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmLookUpPembelianDetil.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmSaldoPerGudang.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriSaldoAwalPersediaanD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriSaldoAwalPersediaan.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriReturJualD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriReturJual.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmHasilPosting.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriPemakaianBarangD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriPemakaianBarang.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriPenyesuaianBarangD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriPenyesuaianBarang.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferINMutasiWilayahD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferINMutasiWilayah.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferOutMutasiWilayah.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriPackingMutasiWilayahD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriPackingMutasiWilayah.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriSPKMutasiWilayahD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriSPKMutasiWilayah.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriRequestMutasiWilayahD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriRequestMutasiWilayah.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriRevisiBeliD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmCetakBarcode.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriPackingD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriPacking.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriPOD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriJualD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriMutasiGudangD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriMutasiGudang.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriDO.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frBayarHutang.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frBayarPiutang.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frLUAlamat.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frLUKasBank.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmDaftarBayarHutang.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmDaftarPiutangPerCustomer.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriDOD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriSO.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriSOD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriSPKD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriSPK.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriUser.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.FrmGantiPassword.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmOtorisasiAdmin.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmDaftarAlamat.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmLookUpKartuStok.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmDaftarBarang.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriJual.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmDaftarJenisBarang.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriLPBD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriLPB.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriPO.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriReturBeliD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriReturBeli.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmDaftarKartuStok.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmCetakMDI.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmDaftarMasterDetil.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriBeli.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriBeliD.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.FrmEntriMasterDetil.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmDaftarFilterTanggal.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.FrmEntriPembelian.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmEntriKontak.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmDaftarTree.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.clsBarang.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmGenerateFormH.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmDaftar.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmGenerateForm.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmLogin.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmLookup.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmMain.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmPerbaikanPosting.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmSimpleEntri.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmMenu.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmSetting.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmShowImage.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.Resources.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmRubahJenisBarang.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPoint.frmSettingPerusahaan.resources
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\AHSRetail.vbproj.GenerateResource.Cache
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPointRetailSystem.exe.licenses
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPointRetailSystem.exe
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPointRetailSystem.xml
+D:\TETAP JAYA\BO\Retail\obj\x86\Debug\VPointRetailSystem.pdb
+F:\HARTANI\BO\Retail\bin\x86\Debug\VPointRetailSystem.exe.config
+F:\HARTANI\BO\Retail\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\HARTANI\BO\Retail\obj\x86\Debug\Interop.BarTender.dll
+F:\HARTANI\BO\Retail\obj\x86\Debug\Interop.CRUFLTBL.dll
+F:\HARTANI\BO\Retail\obj\x86\Debug\AHSRetail.vbproj.ResolveComReference.cache
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmLaporan.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmDaftarMutasiWilayah.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmDaftarUser.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmServiceSQLServer.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmLaporanLabaKotorPerhari.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmLaporanLabaKotorPerBarang.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.FrmCekHargaJual.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.FrmDownloadPenjualanKasir.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferKodeBarangD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferKodeBarang.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriRevisiJual.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriRevisiJualD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriRuleMutasi.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmHasilPostingNonStock.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriRevisiBeli.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriStockOpnameD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriStockOpname.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmLaporanTopTenSales.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmLookUpPembelianDetil.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmSaldoPerGudang.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriSaldoAwalPersediaanD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriSaldoAwalPersediaan.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriReturJualD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriReturJual.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmHasilPosting.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriPemakaianBarangD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriPemakaianBarang.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriPenyesuaianBarangD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriPenyesuaianBarang.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferINMutasiWilayahD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferINMutasiWilayah.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferOutMutasiWilayah.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriPackingMutasiWilayahD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriPackingMutasiWilayah.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriSPKMutasiWilayahD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriSPKMutasiWilayah.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriRequestMutasiWilayahD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriRequestMutasiWilayah.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriRevisiBeliD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmCetakBarcode.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriPackingD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriPacking.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriPOD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriJualD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriMutasiGudangD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriMutasiGudang.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriDO.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frBayarHutang.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frBayarPiutang.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frLUAlamat.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frLUKasBank.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmDaftarBayarHutang.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmDaftarPiutangPerCustomer.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriDOD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriSO.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriSOD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriSPKD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriSPK.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriUser.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.FrmGantiPassword.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmOtorisasiAdmin.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmDaftarAlamat.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmLookUpKartuStok.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmDaftarBarang.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriJual.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmDaftarJenisBarang.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriLPBD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriLPB.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriPO.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriReturBeliD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriReturBeli.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmDaftarKartuStok.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmCetakMDI.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmDaftarMasterDetil.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriBeli.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriBeliD.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.FrmEntriMasterDetil.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmDaftarFilterTanggal.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.FrmEntriPembelian.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmEntriKontak.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmDaftarTree.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.clsBarang.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmGenerateFormH.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmDaftar.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmGenerateForm.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmLogin.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmLookup.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmMain.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmPerbaikanPosting.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmSimpleEntri.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmMenu.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmSetting.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmShowImage.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.Resources.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmRubahJenisBarang.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmSettingPerusahaan.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\AHSRetail.vbproj.GenerateResource.Cache
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPointRetailSystem.exe.licenses
+F:\HARTANI\BO\Retail\bin\Debug\VPointRetailSystem.exe.config
+F:\HARTANI\BO\Retail\bin\Debug\VPointRetailSystem.exe
+F:\HARTANI\BO\Retail\bin\Debug\VPointRetailSystem.pdb
+F:\HARTANI\BO\Retail\bin\Debug\VPointRetailSystem.xml
+F:\HARTANI\BO\Retail\bin\Debug\System.Data.SQLite.Linq.dll
+F:\HARTANI\BO\Retail\bin\Debug\Interop.BarTender.dll
+F:\HARTANI\BO\Retail\bin\Debug\Interop.CRUFLTBL.dll
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPointRetailSystem.exe
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPointRetailSystem.xml
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPointRetailSystem.pdb
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmCekPoin.resources
+F:\HARTANI\BO\Retail\obj\x86\Debug\VPoint.frmLaporanOmzetPerSupplierPerDepartemen.resources
+D:\ABC RETAIL\BO\Retail\bin\Debug\VPointRetailSystem.exe.config
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\Interop.BarTender.dll
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\Interop.CRUFLTBL.dll
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\AHSRetail.vbproj.ResolveComReference.cache
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPointRetailSystem.exe
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPointRetailSystem.xml
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPointRetailSystem.pdb
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmLaporan.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmDaftarMutasiWilayah.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmDaftarUser.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmServiceSQLServer.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmLaporanOmzetPerSupplierPerDepartemen.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmCekPoin.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmLaporanLabaKotorPerhari.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmLaporanLabaKotorPerBarang.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.FrmCekHargaJual.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.FrmDownloadPenjualanKasir.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferKodeBarangD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferKodeBarang.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriRevisiJual.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriRevisiJualD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriRuleMutasi.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmHasilPostingNonStock.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriRevisiBeli.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriStockOpnameD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriStockOpname.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmLaporanTopTenSales.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmLookUpPembelianDetil.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmSaldoPerGudang.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriSaldoAwalPersediaanD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriSaldoAwalPersediaan.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriReturJualD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriReturJual.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmHasilPosting.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriPemakaianBarangD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriPemakaianBarang.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriPenyesuaianBarangD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriPenyesuaianBarang.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferINMutasiWilayahD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferINMutasiWilayah.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriTransferOutMutasiWilayah.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriPackingMutasiWilayahD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriPackingMutasiWilayah.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriSPKMutasiWilayahD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriSPKMutasiWilayah.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriRequestMutasiWilayahD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriRequestMutasiWilayah.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriRevisiBeliD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmCetakBarcode.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriPackingD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriPacking.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriPOD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriJualD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriMutasiGudangD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriMutasiGudang.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriDO.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frBayarHutang.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frBayarPiutang.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frLUAlamat.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frLUKasBank.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmDaftarBayarHutang.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmDaftarPiutangPerCustomer.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriDOD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriSO.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriSOD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriSPKD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriSPK.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriUser.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.FrmGantiPassword.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmOtorisasiAdmin.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmDaftarAlamat.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmLookUpKartuStok.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmDaftarBarang.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriJual.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmDaftarJenisBarang.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriLPBD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriLPB.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriPO.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriReturBeliD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriReturBeli.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmDaftarKartuStok.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmCetakMDI.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmDaftarMasterDetil.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriBeli.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriBeliD.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.FrmEntriMasterDetil.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmDaftarFilterTanggal.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.FrmEntriPembelian.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmEntriKontak.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmDaftarTree.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.clsBarang.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmGenerateFormH.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmDaftar.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmGenerateForm.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmLogin.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmLookup.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmMain.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmPerbaikanPosting.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmSimpleEntri.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmMenu.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmSetting.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmShowImage.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.Resources.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmRubahJenisBarang.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPoint.frmSettingPerusahaan.resources
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\AHSRetail.vbproj.GenerateResource.Cache
+D:\ABC RETAIL\BO\Retail\obj\x86\Debug\VPointRetailSystem.exe.licenses
+D:\ABC RETAIL\BO\Retail\bin\Debug\VPointRetailSystem.exe
+D:\ABC RETAIL\BO\Retail\bin\Debug\VPointRetailSystem.pdb
+D:\ABC RETAIL\BO\Retail\bin\Debug\VPointRetailSystem.xml
+D:\ABC RETAIL\BO\Retail\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ABC RETAIL\BO\Retail\bin\Debug\Interop.BarTender.dll
+D:\ABC RETAIL\BO\Retail\bin\Debug\Interop.CRUFLTBL.dll

@@ -1,0 +1,187 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="Columns" iskey="true" value="26">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="VisibleIndex">0</property>
+      <property name="Visible">true</property>
+      <property name="Name">colTanggal</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Name">col0</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Name">col1</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Name">col2</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Name">col3</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Name">col4</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Name">col5</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Name">col6</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Name">col7</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="VisibleIndex">1</property>
+      <property name="Visible">true</property>
+      <property name="Name">col8</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="VisibleIndex">2</property>
+      <property name="Visible">true</property>
+      <property name="Width">95</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">9</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">col9</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="VisibleIndex">3</property>
+      <property name="Visible">true</property>
+      <property name="Width">105</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">10</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">col10</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="VisibleIndex">4</property>
+      <property name="Visible">true</property>
+      <property name="Width">106</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">11</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">col11</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="VisibleIndex">5</property>
+      <property name="Visible">true</property>
+      <property name="Width">87</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">12</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">col12</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="VisibleIndex">6</property>
+      <property name="Visible">true</property>
+      <property name="Width">93</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">13</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">col13</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="VisibleIndex">7</property>
+      <property name="Visible">true</property>
+      <property name="Width">93</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">14</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">col14</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="VisibleIndex">8</property>
+      <property name="Visible">true</property>
+      <property name="Width">106</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">15</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">col15</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="VisibleIndex">9</property>
+      <property name="Visible">true</property>
+      <property name="Width">94</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">16</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">col16</property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="VisibleIndex">10</property>
+      <property name="Visible">true</property>
+      <property name="Width">89</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">17</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">col17</property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="VisibleIndex">11</property>
+      <property name="Visible">true</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">18</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">col18</property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="Name">col19</property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="Name">col20</property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="Name">col21</property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="Name">col22</property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="Name">col23</property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="VisibleIndex">12</property>
+      <property name="Visible">true</property>
+      <property name="Name">colJumlah</property>
+    </property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowFooter">true</property>
+    <property name="ShowGroupPanel">false</property>
+    <property name="ShowFilterPanelMode">Never</property>
+    <property name="ColumnAutoWidth">false</property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

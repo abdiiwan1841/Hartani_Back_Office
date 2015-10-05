@@ -1,0 +1,163 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="Columns" iskey="true" value="26">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Width">41</property>
+      <property name="Name">colNoID</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Width">62</property>
+      <property name="Name">colKodePajak</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Width">81</property>
+      <property name="Name">colKodeTransaksi</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Width">67</property>
+      <property name="Name">colKodeStatus</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Width">80</property>
+      <property name="Name">colKodeDokumen</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Width">51</property>
+      <property name="Name">colFlagVAT</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="VisibleIndex">3</property>
+      <property name="Visible">true</property>
+      <property name="Width">51</property>
+      <property name="Name">colBendel</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="VisibleIndex">7</property>
+      <property name="Visible">true</property>
+      <property name="Width">48</property>
+      <property name="Name">colSelisih</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Width">80</property>
+      <property name="Name">colJenisDokumen</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="VisibleIndex">4</property>
+      <property name="Visible">true</property>
+      <property name="Width">117</property>
+      <property name="Name">colNPWP</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Width">215</property>
+      <property name="Name">colJenisDokumenDokumenPengganti/Retur</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="VisibleIndex">1</property>
+      <property name="Visible">true</property>
+      <property name="Width">115</property>
+      <property name="Name">colNomorFakturPajak</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Width">68</property>
+      <property name="Name">colTanggalSSP</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="VisibleIndex">10</property>
+      <property name="Visible">true</property>
+      <property name="Width">73</property>
+      <property name="Name">colMasaPajak</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="VisibleIndex">11</property>
+      <property name="Visible">true</property>
+      <property name="Width">78</property>
+      <property name="Name">colTahunPajak</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="VisibleIndex">12</property>
+      <property name="Visible">true</property>
+      <property name="Name">colPembetulan</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="VisibleIndex">8</property>
+      <property name="Visible">true</property>
+      <property name="Width">130</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">DPP</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">colDPP</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="VisibleIndex">9</property>
+      <property name="Visible">true</property>
+      <property name="Width">120</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">PPN</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">colPPN</property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="Width">44</property>
+      <property name="Name">colPPnBM</property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="Width">37</property>
+      <property name="Name">colIsBeli</property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="VisibleIndex">2</property>
+      <property name="Visible">true</property>
+      <property name="Width">164</property>
+      <property name="Name">colNomorFakturPajakPengganti</property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="VisibleIndex">0</property>
+      <property name="Visible">true</property>
+      <property name="Width">133</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Count</property>
+        <property name="DisplayFormat">{0}</property>
+        <property name="FieldName">Tanggal Faktur Pajak</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">colTanggalFakturPajak</property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="VisibleIndex">13</property>
+      <property name="Visible">true</property>
+      <property name="Width">106</property>
+      <property name="Name">colNoSPP</property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="Width">111</property>
+      <property name="Name">colKodeFaktur</property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="VisibleIndex">6</property>
+      <property name="Visible">true</property>
+      <property name="Width">279</property>
+      <property name="Name">colNamaSupplier</property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="VisibleIndex">5</property>
+      <property name="Visible">true</property>
+      <property name="Width">94</property>
+      <property name="Name">colKodeSupplier</property>
+    </property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowFooter">true</property>
+    <property name="ShowGroupPanel">false</property>
+    <property name="ColumnAutoWidth">false</property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="SortInfo">~Xtra#Base64AAEAAAD/////AQAAAAAAAAAMAgAAAF1EZXZFeHByZXNzLlh0cmFHcmlkLnYxMC4yLCBWZXJzaW9uPTEwLjIuOC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI4OGQxNzU0ZDcwMGU0OWEFAQAAADhEZXZFeHByZXNzLlh0cmFHcmlkLkNvbHVtbnMuR3JpZENvbHVtblNvcnRJbmZvQ29sbGVjdGlvbgQAAAAKZ3JvdXBDb3VudAVjbG9uZQ9jbG9uZUdyb3VwQ291bnQTQ29sbGVjdGlvbkJhc2UrbGlzdAADAAMIsgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW0RldkV4cHJlc3MuWHRyYUdyaWQuQ29sdW1ucy5HcmlkQ29sdW1uU29ydEluZm8sIERldkV4cHJlc3MuWHRyYUdyaWQudjEwLjIsIFZlcnNpb249MTAuMi44LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YV1dCBxTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlMaXN0AgAAAAAAAAAJAwAAAAAAAAAJBAAAAAQDAAAAsgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW0RldkV4cHJlc3MuWHRyYUdyaWQuQ29sdW1ucy5HcmlkQ29sdW1uU29ydEluZm8sIERldkV4cHJlc3MuWHRyYUdyaWQudjEwLjIsIFZlcnNpb249MTAuMi44LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAwRGV2RXhwcmVzcy5YdHJhR3JpZC5Db2x1bW5zLkdyaWRDb2x1bW5Tb3J0SW5mb1tdAgAAAAgICQUAAAAAAAAAAAAAAAQEAAAAHFN5c3RlbS5Db2xsZWN0aW9ucy5BcnJheUxpc3QDAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgUAAAgICQYAAAABAAAABAAAAAcFAAAAAAEAAAAAAAAABC5EZXZFeHByZXNzLlh0cmFHcmlkLkNvbHVtbnMuR3JpZENvbHVtblNvcnRJbmZvAgAAABAGAAAABAAAAAkHAAAADQMMCAAAABlEZXZFeHByZXNzLlh0cmFHcmlkLnYxMC4yBQcAAAAuRGV2RXhwcmVzcy5YdHJhR3JpZC5Db2x1bW5zLkdyaWRDb2x1bW5Tb3J0SW5mbwIAAAAJU29ydE9yZGVyCkNvbHVtbk5hbWUAAQgIAAAAAQAAAAYJAAAAFWNvbFRhbmdnYWxGYWt0dXJQYWphaws=</property>
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

@@ -1,0 +1,517 @@
+﻿<XtraSerializer version="1.0" application="TreeList">
+  <property name="#LayoutVersion" />
+  <property name="CustomizationRowCount">7</property>
+  <property name="RowHeight">-1</property>
+  <property name="ColumnPanelRowHeight">-1</property>
+  <property name="PreviewLineCount">1</property>
+  <property name="BorderStyle">Default</property>
+  <property name="ShowButtonMode">ShowForFocusedCell</property>
+  <property name="IndicatorWidth">-1</property>
+  <property name="DragExpandDelay">1000</property>
+  <property name="HorzScrollStep">3</property>
+  <property name="VertScrollVisibility">Auto</property>
+  <property name="CustomizationFormBounds">@1,X=0@1,Y=0@1,Width=0@1,Height=0</property>
+  <property name="HorzScrollVisibility">Auto</property>
+  <property name="Columns" iskey="true" value="17">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">115</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">52</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">noid</property>
+      <property name="Name">colnoid</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">0</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">79</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">kode</property>
+      <property name="Name">colkode</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">1</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">214</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">caption</property>
+      <property name="Name">colcaption</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">2</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">37</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">shortcut</property>
+      <property name="Name">colshortcut</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">false</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">-1</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">37</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">KeyShortcut</property>
+      <property name="Name">colKeyShortcut</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">false</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">-1</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">67</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">icon</property>
+      <property name="Name">colicon</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">3</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">67</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">nourut</property>
+      <property name="Name">colnourut</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">4</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">67</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">isactive</property>
+      <property name="Name">colisactive</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">5</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">68</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">isawalgroup</property>
+      <property name="Name">colisawalgroup</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">6</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">151</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">objectrun</property>
+      <property name="Name">colobjectrun</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">7</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">56</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">IDServerAsal</property>
+      <property name="Name">colIDServerAsal</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">8</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">56</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">IsBarSubItem</property>
+      <property name="Name">colIsBarSubItem</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">9</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">57</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">IDBarSubItem</property>
+      <property name="Name">colIDBarSubItem</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">10</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">57</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">IsModulAccounting</property>
+      <property name="Name">colIsModulAccounting</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">11</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">57</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">CaptionCetak1</property>
+      <property name="Name">colCaptionCetak1</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">12</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">57</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">CaptionCetak2</property>
+      <property name="Name">colCaptionCetak2</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">13</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="Tag" isnull="true" />
+      <property name="Width">57</property>
+      <property name="UnboundType">Object</property>
+      <property name="SortOrder">None</property>
+      <property name="SummaryFooterStrFormat">{0}</property>
+      <property name="SummaryFooter">None</property>
+      <property name="MinWidth">20</property>
+      <property name="RowFooterSummary">None</property>
+      <property name="RowFooterSummaryStrFormat">{0}</property>
+      <property name="AllNodesSummary">false</property>
+      <property name="Format" isnull="true" iskey="true">
+        <property name="FormatString" />
+        <property name="FormatType">None</property>
+      </property>
+      <property name="ImageAlignment">Near</property>
+      <property name="FieldName">KeyMode</property>
+      <property name="Name">colKeyMode</property>
+      <property name="AllowIncrementalSearch">true</property>
+      <property name="Caption" />
+      <property name="CustomizationCaption" />
+      <property name="SortIndex">-1</property>
+      <property name="Visible">true</property>
+      <property name="ImageIndex">-1</property>
+      <property name="Fixed">None</property>
+      <property name="ColumnEditName" />
+      <property name="VisibleIndex">14</property>
+    </property>
+  </property>
+  <property name="BestFitVisibleOnly">false</property>
+  <property name="FixedLineWidth">2</property>
+  <property name="ImageIndexFieldName">ImageIndex</property>
+  <property name="KeyFieldName">NoID</property>
+  <property name="ParentFieldName">IDParent</property>
+  <property name="TreeLineStyle">Percent50</property>
+  <property name="TreeLevelWidth">18</property>
+  <property name="RootValue" type="System.Int32">0</property>
+  <property name="PreviewFieldName" />
+  <property name="OptionsBehavior" isnull="true" iskey="true">
+    <property name="DragNodes">true</property>
+    <property name="ExpandNodesOnIncrementalSearch">true</property>
+    <property name="AllowIncrementalSearch">true</property>
+  </property>
+  <property name="OptionsSelection" isnull="true" iskey="true">
+    <property name="MultiSelect">true</property>
+    <property name="UseIndicatorForSelection">true</property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowSummaryFooter">true</property>
+    <property name="ShowRowFooterSummary">true</property>
+  </property>
+  <property name="FormatConditions" iskey="true" value="0" />
+  <property name="FilterConditions" iskey="true" value="0" />
+</XtraSerializer>

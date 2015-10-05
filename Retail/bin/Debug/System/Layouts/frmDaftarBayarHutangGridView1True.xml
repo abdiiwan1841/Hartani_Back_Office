@@ -1,0 +1,331 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="Columns" iskey="true" value="60">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Width">39</property>
+      <property name="Name">colNoID</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Width">115</property>
+      <property name="Name">colKode</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Width">60</property>
+      <property name="Name">colKodeReff</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Width">68</property>
+      <property name="Name">colKeterangan</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Width">77</property>
+      <property name="Name">colIDUserEntry</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="VisibleIndex">6</property>
+      <property name="Visible">true</property>
+      <property name="Width">110</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">SubTotal</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">colSubTotal</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Width">101</property>
+      <property name="Name">colJumlahUangMuka</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="VisibleIndex">1</property>
+      <property name="Visible">true</property>
+      <property name="Width">63</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Count</property>
+        <property name="DisplayFormat">{0}</property>
+        <property name="FieldName">Tanggal</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">colTanggal</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Width">70</property>
+      <property name="Name">colIDAkunKas</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="VisibleIndex">0</property>
+      <property name="Visible">true</property>
+      <property name="Width">67</property>
+      <property name="Name">colIsPosted</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Width">85</property>
+      <property name="Name">colIDCustomer</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Width">69</property>
+      <property name="Name">colIDUserEdit</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Width">63</property>
+      <property name="Name">colTglEdit</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="Width">85</property>
+      <property name="Name">colIDDepartemen</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="Width">63</property>
+      <property name="Name">colTglEntry</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Width">65</property>
+      <property name="Name">colIsGiroCair</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="Width">59</property>
+      <property name="Name">colIDAlamat</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="Width">70</property>
+      <property name="Name">colIsGiroBatal</property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="Width">84</property>
+      <property name="Name">colIDUserPosted</property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="Width">51</property>
+      <property name="Name">colCatatan</property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="Width">62</property>
+      <property name="Name">colIsSupplier</property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="Width">55</property>
+      <property name="Name">colUserEdit</property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="Width">62</property>
+      <property name="Name">colTglPosted</property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="Width">42</property>
+      <property name="Name">colIsEdit</property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="Width">67</property>
+      <property name="Name">colNotaDebet</property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="Width">43</property>
+      <property name="Name">colIsGiro</property>
+    </property>
+    <property name="Item27" isnull="true" iskey="true">
+      <property name="Width">66</property>
+      <property name="Name">colNotaKredit</property>
+    </property>
+    <property name="Item28" isnull="true" iskey="true">
+      <property name="Width">61</property>
+      <property name="Name">colJumlahPH</property>
+    </property>
+    <property name="Item29" isnull="true" iskey="true">
+      <property name="Width">43</property>
+      <property name="Name">colIsJual</property>
+    </property>
+    <property name="Item30" isnull="true" iskey="true">
+      <property name="Width">73</property>
+      <property name="Name">colJumlahBeli</property>
+    </property>
+    <property name="Item31" isnull="true" iskey="true">
+      <property name="Width">74</property>
+      <property name="Name">colJatuhTempo</property>
+    </property>
+    <property name="Item32" isnull="true" iskey="true">
+      <property name="Name">colJumlahRetur</property>
+    </property>
+    <property name="Item33" isnull="true" iskey="true">
+      <property name="VisibleIndex">10</property>
+      <property name="Visible">true</property>
+      <property name="Width">110</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">Total</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">colTotal</property>
+    </property>
+    <property name="Item34" isnull="true" iskey="true">
+      <property name="Width">64</property>
+      <property name="Name">colIDWilayah</property>
+    </property>
+    <property name="Item35" isnull="true" iskey="true">
+      <property name="Width">70</property>
+      <property name="Name">colTglGiroCair</property>
+    </property>
+    <property name="Item36" isnull="true" iskey="true">
+      <property name="Name">colTglGiroBatal</property>
+    </property>
+    <property name="Item37" isnull="true" iskey="true">
+      <property name="Width">47</property>
+      <property name="Name">colNoGiro</property>
+    </property>
+    <property name="Item38" isnull="true" iskey="true">
+      <property name="Width">43</property>
+      <property name="Name">colIDKas</property>
+    </property>
+    <property name="Item39" isnull="true" iskey="true">
+      <property name="Width">35</property>
+      <property name="Name">colIDTT</property>
+    </property>
+    <property name="Item40" isnull="true" iskey="true">
+      <property name="Width">81</property>
+      <property name="Name">colIDServerAsal</property>
+    </property>
+    <property name="Item41" isnull="true" iskey="true">
+      <property name="Width">56</property>
+      <property name="Name">colKodeKas</property>
+    </property>
+    <property name="Item42" isnull="true" iskey="true">
+      <property name="Width">55</property>
+      <property name="Name">colKasBank</property>
+    </property>
+    <property name="Item43" isnull="true" iskey="true">
+      <property name="VisibleIndex">5</property>
+      <property name="Visible">true</property>
+      <property name="Width">170</property>
+      <property name="Name">colSupplier</property>
+    </property>
+    <property name="Item44" isnull="true" iskey="true">
+      <property name="VisibleIndex">4</property>
+      <property name="Visible">true</property>
+      <property name="Width">87</property>
+      <property name="Name">colKodeSupplier</property>
+    </property>
+    <property name="Item45" isnull="true" iskey="true">
+      <property name="Width">293</property>
+      <property name="Name">colAlamat</property>
+    </property>
+    <property name="Item46" isnull="true" iskey="true">
+      <property name="VisibleIndex">9</property>
+      <property name="Visible">true</property>
+      <property name="Width">88</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">Materai</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">colMaterai</property>
+    </property>
+    <property name="Item47" isnull="true" iskey="true">
+      <property name="Width">76</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">JumlahBayar</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">colJumlahBayar</property>
+    </property>
+    <property name="Item48" isnull="true" iskey="true">
+      <property name="VisibleIndex">3</property>
+      <property name="Visible">true</property>
+      <property name="Width">81</property>
+      <property name="Name">colNoTT</property>
+    </property>
+    <property name="Item49" isnull="true" iskey="true">
+      <property name="Width">65</property>
+      <property name="Name">colIDKwitansi</property>
+    </property>
+    <property name="Item50" isnull="true" iskey="true">
+      <property name="VisibleIndex">13</property>
+      <property name="Visible">true</property>
+      <property name="Width">104</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">JumlahKwitansi</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">colJumlahKwitansi</property>
+    </property>
+    <property name="Item51" isnull="true" iskey="true">
+      <property name="Width">92</property>
+      <property name="Name">colNoKwitansi</property>
+    </property>
+    <property name="Item52" isnull="true" iskey="true">
+      <property name="VisibleIndex">7</property>
+      <property name="Visible">true</property>
+      <property name="Width">94</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">Potongan</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">colPotongan</property>
+    </property>
+    <property name="Item53" isnull="true" iskey="true">
+      <property name="VisibleIndex">8</property>
+      <property name="Visible">true</property>
+      <property name="Width">60</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">SUM={0:n2}</property>
+        <property name="FieldName">DN</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">colDN</property>
+    </property>
+    <property name="Item54" isnull="true" iskey="true">
+      <property name="Width">92</property>
+      <property name="Name">colIDAkunKwitansi</property>
+    </property>
+    <property name="Item55" isnull="true" iskey="true">
+      <property name="Width">102</property>
+      <property name="Name">colIDAkunKwitansiD</property>
+    </property>
+    <property name="Item56" isnull="true" iskey="true">
+      <property name="VisibleIndex">14</property>
+      <property name="Visible">true</property>
+      <property name="Width">93</property>
+      <property name="Name">colKetKwitansi</property>
+    </property>
+    <property name="Item57" isnull="true" iskey="true">
+      <property name="VisibleIndex">2</property>
+      <property name="Visible">true</property>
+      <property name="Name">colTglKembali</property>
+    </property>
+    <property name="Item58" isnull="true" iskey="true">
+      <property name="VisibleIndex">12</property>
+      <property name="Visible">true</property>
+      <property name="Width">83</property>
+      <property name="Name">colNoKwitansi1</property>
+    </property>
+    <property name="Item59" isnull="true" iskey="true">
+      <property name="VisibleIndex">15</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="Name">coldenda</property>
+    </property>
+    <property name="Item60" isnull="true" iskey="true">
+      <property name="VisibleIndex">11</property>
+      <property name="Visible">true</property>
+      <property name="Width">114</property>
+      <property name="Name">colNoBPK</property>
+    </property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowFooter">true</property>
+    <property name="ShowGroupPanel">false</property>
+    <property name="ColumnAutoWidth">false</property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="SortInfo">~Xtra#Base64AAEAAAD/////AQAAAAAAAAAMAgAAAF1EZXZFeHByZXNzLlh0cmFHcmlkLnYxMC4yLCBWZXJzaW9uPTEwLjIuOC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI4OGQxNzU0ZDcwMGU0OWEFAQAAADhEZXZFeHByZXNzLlh0cmFHcmlkLkNvbHVtbnMuR3JpZENvbHVtblNvcnRJbmZvQ29sbGVjdGlvbgQAAAAKZ3JvdXBDb3VudAVjbG9uZQ9jbG9uZUdyb3VwQ291bnQTQ29sbGVjdGlvbkJhc2UrbGlzdAADAAMIsgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW0RldkV4cHJlc3MuWHRyYUdyaWQuQ29sdW1ucy5HcmlkQ29sdW1uU29ydEluZm8sIERldkV4cHJlc3MuWHRyYUdyaWQudjEwLjIsIFZlcnNpb249MTAuMi44LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YV1dCBxTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlMaXN0AgAAAAAAAAAJAwAAAAAAAAAJBAAAAAQDAAAAsgFTeXN0ZW0uQ29sbGVjdGlvbnMuR2VuZXJpYy5MaXN0YDFbW0RldkV4cHJlc3MuWHRyYUdyaWQuQ29sdW1ucy5HcmlkQ29sdW1uU29ydEluZm8sIERldkV4cHJlc3MuWHRyYUdyaWQudjEwLjIsIFZlcnNpb249MTAuMi44LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YV1dAwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24EAAAwRGV2RXhwcmVzcy5YdHJhR3JpZC5Db2x1bW5zLkdyaWRDb2x1bW5Tb3J0SW5mb1tdAgAAAAgICQUAAAAAAAAAAAAAAAQEAAAAHFN5c3RlbS5Db2xsZWN0aW9ucy5BcnJheUxpc3QDAAAABl9pdGVtcwVfc2l6ZQhfdmVyc2lvbgUAAAgICQYAAAABAAAABAAAAAcFAAAAAAEAAAAAAAAABC5EZXZFeHByZXNzLlh0cmFHcmlkLkNvbHVtbnMuR3JpZENvbHVtblNvcnRJbmZvAgAAABAGAAAABAAAAAkHAAAADQMMCAAAABlEZXZFeHByZXNzLlh0cmFHcmlkLnYxMC4yBQcAAAAuRGV2RXhwcmVzcy5YdHJhR3JpZC5Db2x1bW5zLkdyaWRDb2x1bW5Tb3J0SW5mbwIAAAAJU29ydE9yZGVyCkNvbHVtbk5hbWUAAQgIAAAAAQAAAAYJAAAADWNvbElEQ3VzdG9tZXIL</property>
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

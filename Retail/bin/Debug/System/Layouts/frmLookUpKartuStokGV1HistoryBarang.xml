@@ -1,0 +1,131 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="Columns" iskey="true" value="26">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Name">colIDSatuan</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="VisibleIndex">10</property>
+      <property name="Visible">true</property>
+      <property name="Name">colGudang</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="VisibleIndex">11</property>
+      <property name="Visible">true</property>
+      <property name="Name">colWilayah</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Name">colNoID</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="VisibleIndex">1</property>
+      <property name="Visible">true</property>
+      <property name="Width">91</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Count</property>
+        <property name="DisplayFormat">{0}</property>
+        <property name="FieldName">KodeTransaksi</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">colKodeTransaksi</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="VisibleIndex">0</property>
+      <property name="Visible">true</property>
+      <property name="Name">colTanggal</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="VisibleIndex">13</property>
+      <property name="Visible">true</property>
+      <property name="Name">colKeterangan</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="VisibleIndex">3</property>
+      <property name="Visible">true</property>
+      <property name="Width">80</property>
+      <property name="Name">colKodeBarang</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="VisibleIndex">4</property>
+      <property name="Visible">true</property>
+      <property name="Name">colNama</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Name">colBarcode</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Name">colQtyMasuk</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Name">colQtyKeluar</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="VisibleIndex">7</property>
+      <property name="Visible">true</property>
+      <property name="Width">97</property>
+      <property name="Name">colQtyMasuk(Pcs)</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="VisibleIndex">8</property>
+      <property name="Visible">true</property>
+      <property name="Width">97</property>
+      <property name="Name">colQtyKeluar(Pcs)</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="Name">colSatuan</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Name">colJenis</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="Name">colKategori</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="VisibleIndex">5</property>
+      <property name="Visible">true</property>
+      <property name="Name">colHargaBeli</property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="Name">colKodeDuz</property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="Name">colCtnDuz</property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="Name">colIsActive</property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="Name">colTransaksi</property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="VisibleIndex">12</property>
+      <property name="Visible">true</property>
+      <property name="Width">79</property>
+      <property name="Name">colKodeKontak</property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="VisibleIndex">2</property>
+      <property name="Visible">true</property>
+      <property name="Width">82</property>
+      <property name="Name">colNamaKontak</property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="VisibleIndex">6</property>
+      <property name="Visible">true</property>
+      <property name="Name">colSaldoAwal</property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="VisibleIndex">9</property>
+      <property name="Visible">true</property>
+      <property name="Name">colSaldoAkhir</property>
+    </property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowFooter">true</property>
+    <property name="ShowGroupPanel">false</property>
+    <property name="ColumnAutoWidth">false</property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

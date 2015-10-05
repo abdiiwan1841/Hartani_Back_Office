@@ -1,0 +1,221 @@
+/// <XRTypeInfo>
+///   <AssemblyFullName>DevExpress.XtraReports.v10.2, Version=10.2.8.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a</AssemblyFullName>
+///   <AssemblyLocation>C:\Windows\assembly\GAC_MSIL\DevExpress.XtraReports.v10.2\10.2.8.0__b88d1754d700e49a\DevExpress.XtraReports.v10.2.dll</AssemblyLocation>
+///   <TypeName>DevExpress.XtraReports.UI.XtraReport</TypeName>
+///   <Localization>en-US</Localization>
+/// </XRTypeInfo>
+namespace XtraReportSerialization {
+    
+    public class xtraReport1 : DevExpress.XtraReports.UI.XtraReport {
+        private DevExpress.XtraReports.UI.TopMarginBand topMarginBand1;
+        private DevExpress.XtraReports.UI.XRLabel label10;
+        private DevExpress.XtraReports.UI.XRLabel label9;
+        private DevExpress.XtraReports.UI.XRLabel label4;
+        private DevExpress.XtraReports.UI.XRLabel label2;
+        private DevExpress.XtraReports.UI.XRLabel label1;
+        private DevExpress.XtraReports.UI.DetailBand detailBand1;
+        private DevExpress.XtraReports.UI.XRLabel label8;
+        private DevExpress.XtraReports.UI.XRLabel label7;
+        private DevExpress.XtraReports.UI.XRLabel label6;
+        private DevExpress.XtraReports.UI.BottomMarginBand bottomMarginBand1;
+        private DevExpress.XtraReports.UI.CalculatedField TglDari;
+        private DevExpress.XtraReports.UI.CalculatedField NamaPerusahaan;
+        private DevExpress.XtraReports.UI.CalculatedField AlamatPerusahaan;
+        private DevExpress.XtraReports.UI.CalculatedField KotaPerusahaan;
+        private System.Resources.ResourceManager _resources;
+        public xtraReport1() {
+            this.InitializeComponent();
+        }
+        private System.Resources.ResourceManager resources {
+            get {
+                if (_resources == null) {
+                    string resourceString = "zsrvvgEAAACRAAAAbFN5c3RlbS5SZXNvdXJjZXMuUmVzb3VyY2VSZWFkZXIsIG1zY29ybGliLCBWZXJza" +
+                        "W9uPTIuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4O" +
+                        "SNTeXN0ZW0uUmVzb3VyY2VzLlJ1bnRpbWVSZXNvdXJjZVNldAIAAAAAAAAAAAAAAFBBRFBBRFC0AAAA";
+                    this._resources = new DevExpress.XtraReports.Serialization.XRResourceManager(resourceString);
+                }
+                return this._resources;
+            }
+        }
+        private void InitializeComponent() {
+            this.topMarginBand1 = new DevExpress.XtraReports.UI.TopMarginBand();
+            this.detailBand1 = new DevExpress.XtraReports.UI.DetailBand();
+            this.bottomMarginBand1 = new DevExpress.XtraReports.UI.BottomMarginBand();
+            this.label10 = new DevExpress.XtraReports.UI.XRLabel();
+            this.label9 = new DevExpress.XtraReports.UI.XRLabel();
+            this.label4 = new DevExpress.XtraReports.UI.XRLabel();
+            this.label2 = new DevExpress.XtraReports.UI.XRLabel();
+            this.label1 = new DevExpress.XtraReports.UI.XRLabel();
+            this.label8 = new DevExpress.XtraReports.UI.XRLabel();
+            this.label7 = new DevExpress.XtraReports.UI.XRLabel();
+            this.label6 = new DevExpress.XtraReports.UI.XRLabel();
+            this.TglDari = new DevExpress.XtraReports.UI.CalculatedField();
+            this.NamaPerusahaan = new DevExpress.XtraReports.UI.CalculatedField();
+            this.AlamatPerusahaan = new DevExpress.XtraReports.UI.CalculatedField();
+            this.KotaPerusahaan = new DevExpress.XtraReports.UI.CalculatedField();
+            ((System.ComponentModel.ISupportInitialize)(this)).BeginInit();
+            // 
+            // topMarginBand1
+            // 
+            this.topMarginBand1.Controls.AddRange(new DevExpress.XtraReports.UI.XRControl[] {
+                        this.label10,
+                        this.label9,
+                        this.label4,
+                        this.label2,
+                        this.label1});
+            this.topMarginBand1.Dpi = 254F;
+            this.topMarginBand1.HeightF = 254F;
+            this.topMarginBand1.Name = "topMarginBand1";
+            // 
+            // detailBand1
+            // 
+            this.detailBand1.Controls.AddRange(new DevExpress.XtraReports.UI.XRControl[] {
+                        this.label8,
+                        this.label7,
+                        this.label6});
+            this.detailBand1.Dpi = 254F;
+            this.detailBand1.HeightF = 58.42F;
+            this.detailBand1.Name = "detailBand1";
+            // 
+            // bottomMarginBand1
+            // 
+            this.bottomMarginBand1.Dpi = 254F;
+            this.bottomMarginBand1.HeightF = 254F;
+            this.bottomMarginBand1.Name = "bottomMarginBand1";
+            // 
+            // label10
+            // 
+            this.label10.Dpi = 254F;
+            this.label10.LocationFloat = new DevExpress.Utils.PointFloat(1137.708F, 36.72418F);
+            this.label10.Name = "label10";
+            this.label10.Padding = new DevExpress.XtraPrinting.PaddingInfo(5, 5, 0, 0, 254F);
+            this.label10.SizeF = new System.Drawing.SizeF(513.2916F, 58.42001F);
+            this.label10.StylePriority.UseTextAlignment = false;
+            this.label10.Text = "[KotaPerusahaan], [MBeli.Tanggal!dd-MM-yyyy]";
+            this.label10.TextAlignment = DevExpress.XtraPrinting.TextAlignment.TopRight;
+            // 
+            // label9
+            // 
+            this.label9.Dpi = 254F;
+            this.label9.LocationFloat = new DevExpress.Utils.PointFloat(759.3541F, 170.58F);
+            this.label9.Name = "label9";
+            this.label9.Padding = new DevExpress.XtraPrinting.PaddingInfo(5, 5, 0, 0, 254F);
+            this.label9.SizeF = new System.Drawing.SizeF(254F, 58.42F);
+            this.label9.Text = "[TglDari!dd-MM-yyyy]";
+            // 
+            // label4
+            // 
+            this.label4.Dpi = 254F;
+            this.label4.LocationFloat = new DevExpress.Utils.PointFloat(0F, 36.72418F);
+            this.label4.Name = "label4";
+            this.label4.Padding = new DevExpress.XtraPrinting.PaddingInfo(5, 5, 0, 0, 254F);
+            this.label4.SizeF = new System.Drawing.SizeF(478.8958F, 58.42001F);
+            this.label4.Text = "[NamaPerusahaan]";
+            // 
+            // label2
+            // 
+            this.label2.DataBindings.AddRange(new DevExpress.XtraReports.UI.XRBinding[] {
+                        new DevExpress.XtraReports.UI.XRBinding("Text", null, "AlamatPerusahaan")});
+            this.label2.Dpi = 254F;
+            this.label2.LocationFloat = new DevExpress.Utils.PointFloat(0F, 95.14419F);
+            this.label2.Multiline = true;
+            this.label2.Name = "label2";
+            this.label2.Padding = new DevExpress.XtraPrinting.PaddingInfo(5, 5, 0, 0, 254F);
+            this.label2.SizeF = new System.Drawing.SizeF(616.4792F, 58.41999F);
+            this.label2.Text = "\r\n";
+            // 
+            // label1
+            // 
+            this.label1.Dpi = 254F;
+            this.label1.LocationFloat = new DevExpress.Utils.PointFloat(1137.708F, 95.14419F);
+            this.label1.Name = "label1";
+            this.label1.Padding = new DevExpress.XtraPrinting.PaddingInfo(5, 5, 0, 0, 254F);
+            this.label1.SizeF = new System.Drawing.SizeF(513.2915F, 58.42001F);
+            this.label1.StylePriority.UseTextAlignment = false;
+            this.label1.Text = "No : [MBeli.Kode]";
+            this.label1.TextAlignment = DevExpress.XtraPrinting.TextAlignment.TopRight;
+            // 
+            // label8
+            // 
+            this.label8.DataBindings.AddRange(new DevExpress.XtraReports.UI.XRBinding[] {
+                        new DevExpress.XtraReports.UI.XRBinding("Text", null, "MBeli.Jumlah")});
+            this.label8.Dpi = 254F;
+            this.label8.LocationFloat = new DevExpress.Utils.PointFloat(1013.354F, 0F);
+            this.label8.Name = "label8";
+            this.label8.Padding = new DevExpress.XtraPrinting.PaddingInfo(5, 5, 0, 0, 254F);
+            this.label8.SizeF = new System.Drawing.SizeF(254F, 58.42F);
+            this.label8.Text = "label8";
+            // 
+            // label7
+            // 
+            this.label7.DataBindings.AddRange(new DevExpress.XtraReports.UI.XRBinding[] {
+                        new DevExpress.XtraReports.UI.XRBinding("Text", null, "MBeli.Harga")});
+            this.label7.Dpi = 254F;
+            this.label7.LocationFloat = new DevExpress.Utils.PointFloat(505.3542F, 0F);
+            this.label7.Name = "label7";
+            this.label7.Padding = new DevExpress.XtraPrinting.PaddingInfo(5, 5, 0, 0, 254F);
+            this.label7.SizeF = new System.Drawing.SizeF(254F, 58.42F);
+            this.label7.Text = "label7";
+            // 
+            // label6
+            // 
+            this.label6.DataBindings.AddRange(new DevExpress.XtraReports.UI.XRBinding[] {
+                        new DevExpress.XtraReports.UI.XRBinding("Text", null, "MBeli.HargaJual")});
+            this.label6.Dpi = 254F;
+            this.label6.LocationFloat = new DevExpress.Utils.PointFloat(759.3541F, 0F);
+            this.label6.Name = "label6";
+            this.label6.Padding = new DevExpress.XtraPrinting.PaddingInfo(5, 5, 0, 0, 254F);
+            this.label6.SizeF = new System.Drawing.SizeF(254F, 58.42F);
+            this.label6.Text = "label6";
+            // 
+            // TglDari
+            // 
+            this.TglDari.Expression = "#2013/01/01#";
+            this.TglDari.FieldType = DevExpress.XtraReports.UI.FieldType.DateTime;
+            this.TglDari.Name = "TglDari";
+            // 
+            // NamaPerusahaan
+            // 
+            this.NamaPerusahaan.Expression = "\'VPOINT\'";
+            this.NamaPerusahaan.FieldType = DevExpress.XtraReports.UI.FieldType.String;
+            this.NamaPerusahaan.Name = "NamaPerusahaan";
+            // 
+            // AlamatPerusahaan
+            // 
+            this.AlamatPerusahaan.Expression = "\'Sukolilo Park Regency A-4\'";
+            this.AlamatPerusahaan.FieldType = DevExpress.XtraReports.UI.FieldType.String;
+            this.AlamatPerusahaan.Name = "AlamatPerusahaan";
+            // 
+            // KotaPerusahaan
+            // 
+            this.KotaPerusahaan.Expression = "\'Surabaya\'";
+            this.KotaPerusahaan.FieldType = DevExpress.XtraReports.UI.FieldType.String;
+            this.KotaPerusahaan.Name = "KotaPerusahaan";
+            // 
+            // xtraReport1
+            // 
+            this.Bands.AddRange(new DevExpress.XtraReports.UI.Band[] {
+                        this.topMarginBand1,
+                        this.detailBand1,
+                        this.bottomMarginBand1});
+            this.CalculatedFields.AddRange(new DevExpress.XtraReports.UI.CalculatedField[] {
+                        this.TglDari,
+                        this.NamaPerusahaan,
+                        this.AlamatPerusahaan,
+                        this.KotaPerusahaan});
+            this.DataSourceSchema = "F:\\ON SERVER PC\\New folder\\Retail\\bin\\Debug\\Report\\XCD\\FAKTURMBELI.xsd";
+            this.DisplayName = "FakturMBeli.repx";
+            this.Dpi = 254F;
+            this.Margins = new System.Drawing.Printing.Margins(254, 254, 254, 254);
+            this.Name = "xtraReport1";
+            this.PageHeight = 2794;
+            this.PageWidth = 2159;
+            this.PaperKind = System.Drawing.Printing.PaperKind.Custom;
+            this.ReportUnit = DevExpress.XtraReports.UI.ReportUnit.TenthsOfAMillimeter;
+            this.ScriptLanguage = DevExpress.XtraReports.ScriptLanguage.VisualBasic;
+            this.SnapGridSize = 31.75F;
+            this.Version = "10.2";
+            ((System.ComponentModel.ISupportInitialize)(this)).EndInit();
+        }
+    }
+}

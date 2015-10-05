@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ReportInfo.Created="07/02/2011 10:06:35" ReportInfo.Modified="07/02/2011 11:42:03" ReportInfo.CreatorVersion="1.2.47.0">
+  <Styles Name="Standard">
+    <Style Name="Title" Font="Arial, 12pt, style=Bold"/>
+    <Style Name="Header" Font="Arial, 10pt, style=Bold"/>
+    <Style Name="Group" Font="Arial, 10pt, style=Bold"/>
+    <Style Name="Data"/>
+    <Style Name="Footer"/>
+    <Style Name="EvenRows" Fill.Color="WhiteSmoke"/>
+  </Styles>
+  <Dictionary>
+    <TableDataSource Name="Data" ReferenceName="Data.Data" DataType="System.Int32" Enabled="true">
+      <Column Name="IDSatuan" DataType="System.Int32"/>
+      <Column Name="Gudang" DataType="System.String"/>
+      <Column Name="Wilayah" DataType="System.String"/>
+      <Column Name="NoID" DataType="System.Int64"/>
+      <Column Name="Kode" DataType="System.String"/>
+      <Column Name="Tanggal" DataType="System.DateTime"/>
+      <Column Name="Keterangan" DataType="System.String"/>
+      <Column Name="KodeBarang" DataType="System.String"/>
+      <Column Name="Nama" DataType="System.String"/>
+      <Column Name="Barcode" DataType="System.String"/>
+      <Column Name="QtyMasuk" DataType="System.Decimal"/>
+      <Column Name="QtyKeluar" DataType="System.Decimal"/>
+      <Column Name="QtyAkhir(PCS)" DataType="System.Decimal"/>
+      <Column Name="Satuan" DataType="System.String"/>
+      <Column Name="Jenis" DataType="System.String"/>
+      <Column Name="Kategori" DataType="System.String"/>
+      <Column Name="HargaPasar" DataType="System.Decimal"/>
+      <Column Name="HargaJualA" DataType="System.Decimal"/>
+      <Column Name="HargaJualB" DataType="System.Decimal"/>
+      <Column Name="HargaJualC" DataType="System.Decimal"/>
+      <Column Name="HargaJualD" DataType="System.Decimal"/>
+      <Column Name="HargaJualE" DataType="System.Decimal"/>
+      <Column Name="KodeDuz" DataType="System.String"/>
+      <Column Name="Ctn_Duz" DataType="System.Decimal"/>
+      <Column Name="IsActive" DataType="System.Boolean" BindableControl="CheckBox"/>
+      <Column Name="Transaksi" DataType="System.String"/>
+    </TableDataSource>
+    <Parameter Name="TanggalDari" DataType="System.DateTime" Expression="ToDateTime(&quot;2011/01/01&quot;)"/>
+    <Parameter Name="Tanggalsampai" DataType="System.DateTime" Expression="ToDateTime(&quot;2011/01/01&quot;)"/>
+    <Total Name="MasukGudang" Expression="[Data.QtyMasuk]" Evaluator="Data1" PrintOn="GroupFooter2"/>
+    <Total Name="KeluarGudang" Expression="[Data.QtyKeluar]" Evaluator="Data1" PrintOn="GroupFooter2"/>
+  </Dictionary>
+  <ReportPage Name="Page1" Landscape="true" PaperWidth="297" PaperHeight="210">
+    <ReportTitleBand Name="ReportTitle1" Width="1047.06" Height="56.7" Guides="0,37.8">
+      <TextObject Name="Text1" Width="1047.06" Height="37.8" Text="Daftar Kartu Stock" HorzAlign="Center" VertAlign="Center" Font="Arial, 12pt, style=Bold" Style="Title"/>
+      <TextObject Name="Text39" Top="37.8" Width="1048.95" Height="18.9" Text="Dari Tanggal  [TanggalDari]  s/d  [Tanggalsampai]" HorzAlign="Center">
+        <Formats>
+          <DateFormat/>
+          <DateFormat/>
+        </Formats>
+      </TextObject>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="60.7" Width="1047.06" Height="28.35" Guides="0"/>
+    <GroupHeaderBand Name="GroupHeader1" Top="93.05" Width="1047.06" Height="20.79" CanGrow="true" Condition="[Data.KodeBarang]">
+      <TextObject Name="Text40" Width="576.45" Height="18.9" CanGrow="true" Text="Data Barang	: [[Data.KodeBarang]] - [Data.Nama]" Font="Arial, 10pt, style=Bold"/>
+      <LineObject Name="Line1" Top="18.9" Width="1048.95"/>
+      <GroupHeaderBand Name="GroupHeader2" Top="117.84" Width="1047.06" Height="28.35" CanGrow="true" Condition="[Data.Gudang]">
+        <TextObject Name="Text41" Top="9.45" Width="576.45" Height="18.9" CanGrow="true" Text="Gudang		:  [[Data.Gudang]]  -  [Data.Wilayah]" Font="Arial, 10pt, style=Bold"/>
+        <ChildBand Name="Child1" Top="150.19" Width="1047.06" Height="37.8">
+          <TextObject Name="Text7" Left="444.15" Top="9.45" Width="103.95" Height="18.9" Text="Kode" Font="Arial, 10pt, style=Bold" Style="Header"/>
+          <TextObject Name="Text9" Left="292.95" Top="9.45" Width="75.6" Height="18.9" Text="Tanggal" Font="Arial, 10pt, style=Bold" Style="Header"/>
+          <TextObject Name="Text42" Left="368.55" Top="9.45" Width="75.6" Height="18.9" Text="Transaksi" Font="Arial, 10pt, style=Bold" Style="Header"/>
+          <TextObject Name="Text11" Left="548.1" Top="9.45" Width="179.55" Height="18.9" Text="Keterangan" Font="Arial, 10pt, style=Bold" Style="Header"/>
+          <TextObject Name="Text19" Left="727.65" Top="9.45" Width="56.7" Height="18.9" Text="Masuk" HorzAlign="Right" Font="Arial, 10pt, style=Bold" Style="Header"/>
+          <TextObject Name="Text21" Left="784.35" Top="9.45" Width="56.7" Height="18.9" Text="Keluar" HorzAlign="Right" Font="Arial, 10pt, style=Bold" Style="Header"/>
+          <TextObject Name="Text23" Left="841.05" Top="9.45" Width="113.4" Height="18.9" Text="Qty Akhir (Pcs)" HorzAlign="Right" Font="Arial, 10pt, style=Bold" Style="Header"/>
+          <LineObject Name="Line3" Left="283.5" Top="28.35" Width="680.4"/>
+        </ChildBand>
+        <DataBand Name="Data1" Top="191.99" Width="1047.06" Height="18.9" CanGrow="true" EvenStyle="EvenRows" Guides="0,18.9" DataSource="Data">
+          <TextObject Name="Text6" Left="444.15" Width="103.95" Height="18.9" CanGrow="true" Text="[Data.Kode]" Style="Data"/>
+          <TextObject Name="Text8" Left="292.95" Width="75.6" Height="18.9" Text="[Data.Tanggal]" Format="Custom" Format.Format="dd/MM/yy" Style="Data"/>
+          <TextObject Name="Text10" Left="548.1" Width="179.55" Height="18.9" CanGrow="true" Text="[Data.Keterangan]" Style="Data"/>
+          <TextObject Name="Text18" Left="727.65" Width="56.7" Height="18.9" Text="[Data.QtyMasuk]" Format="Number" Format.UseLocale="true" HorzAlign="Right" Style="Data"/>
+          <TextObject Name="Text20" Left="784.35" Width="56.7" Height="18.9" Text="[Data.QtyKeluar]" Format="Number" Format.UseLocale="true" HorzAlign="Right" Style="Data"/>
+          <TextObject Name="Text22" Left="841.05" Width="113.4" Height="18.9" Text="[Data.QtyAkhir(PCS)]" Format="Number" Format.UseLocale="true" HorzAlign="Right" Style="Data"/>
+          <TextObject Name="Text36" Left="368.55" Width="75.6" Height="18.9" Text="[Data.Transaksi]" Style="Data"/>
+        </DataBand>
+        <GroupFooterBand Name="GroupFooter2" Top="214.89" Width="1047.06" Height="30.24" Guides="0,0">
+          <LineObject Name="Line2" Left="283.5" Width="680.4"/>
+          <TextObject Name="Text2" Left="727.65" Top="3.78" Width="56.7" Height="18.9" Text="[MasukGudang]" Format="Number" Format.UseLocale="true" HorzAlign="Right" Font="Arial, 10pt, style=Bold"/>
+          <TextObject Name="Text3" Left="784.35" Top="3.78" Width="56.7" Height="18.9" Text="[KeluarGudang]" Format="Number" Format.UseLocale="true" HorzAlign="Right" Font="Arial, 10pt, style=Bold"/>
+        </GroupFooterBand>
+      </GroupHeaderBand>
+      <GroupFooterBand Name="GroupFooter1" Top="249.13" Width="1047.06" Height="17.01"/>
+    </GroupHeaderBand>
+    <PageFooterBand Name="PageFooter1" Top="270.14" Width="1047.06" Height="18.9" Guides="0,18.9">
+      <TextObject Name="Text38" Width="1047.06" Height="18.9" Dock="Fill" Text="Page [Page]" HorzAlign="Right" Style="Footer"/>
+    </PageFooterBand>
+  </ReportPage>
+</Report>

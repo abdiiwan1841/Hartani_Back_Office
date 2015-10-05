@@ -1,0 +1,397 @@
+F:\HARTANI\Atum30Juli2012\Retail\bin\Debug\VPointRetailSystem.exe.config
+F:\HARTANI\Atum30Juli2012\Retail\bin\Debug\VPointRetailSystem.exe
+F:\HARTANI\Atum30Juli2012\Retail\bin\Debug\VPointRetailSystem.pdb
+F:\HARTANI\Atum30Juli2012\Retail\bin\Debug\VPointRetailSystem.xml
+F:\HARTANI\Atum30Juli2012\Retail\bin\Debug\System.Data.SQLite.Linq.dll
+F:\HARTANI\Atum30Juli2012\Retail\bin\Debug\Interop.BarTender.dll
+F:\HARTANI\Atum30Juli2012\Retail\bin\Debug\Interop.CRUFLTBL.dll
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\ResolveAssemblyReference.cache
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\Interop.BarTender.dll
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\Interop.CRUFLTBL.dll
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\AHSRetail (Hartani).vbproj.ResolveComReference.cache
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frDaftarAktivaTetap.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frDaftarBukuBesar.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frDaftarPenyusutanAktiva.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frDaftarTypeAsset.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frEntriAktivaTetap.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frLUKasBank.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarJurnalUmum.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarKasIN.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarKasOut.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriAkun.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriJU.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriJUD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriKasBank.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriKasIN.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriKasIND.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriKasOut.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriKasOutD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriSubKlasAkun.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLUAkun.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLUGudang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLUKas.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLUKlasAkun.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLUSubKlasAkun.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmNilaiAktivaTetap.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmViewJurnal.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarMutasiWilayah.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarUser.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanSaldoStok.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmServiceSQLServer.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmSettingApplikasi.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanStockOpnameD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarKartuStokVarian.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanSaldoStokPerVarian.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmReminder.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriPembayaranPiutangOK.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriTransferPoin.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriPembayaranHutangOK.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmSettingAkunPenting.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLihatPenjualanGuide.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriReturBeliTanpaBarang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriBeliTanpaBarang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmBackupDatabase.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriTandaTerimaD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriTandaTerima.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmGenerateStockOpnamePerKategori.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanPenjualanPerDepartemen.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frBayarHutang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frLUBarangD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmImportDataPembelianBarang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmImportDataBarang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporan.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanDetilPenjualanPerCustomer.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanPenjualanPerJam.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanRekapPenjualanPerCustomer.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.FrmCekHargaBeli.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmGetQty.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanOmzetPerSupplierPerDepartemen.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmCekPoin.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanLabaKotorPerhari.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanLabaKotorPerBarang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.FrmCekHargaJual.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.FrmDownloadPenjualanKasir.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriTransferKodeBarangD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriTransferKodeBarang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriRevisiJual.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriRevisiJualD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriRuleMutasi.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmHasilPostingNonStock.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriRevisiBeli.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriStockOpnameD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriStockOpname.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanRekapPenjualanPerDepartemen.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanPembelianvsPenjualan.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmGeneratePO.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanTopTenSales.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLookupMaterai.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLookUpPembelianDetil.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmSaldoPerGudang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriSaldoAwalPersediaanD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriSaldoAwalPersediaan.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriReturJualD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriReturJual.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmHasilPosting.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriPemakaianBarangD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriPemakaianBarang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriPenyesuaianBarangD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriPenyesuaianBarang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriTransferINMutasiWilayahD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriTransferINMutasiWilayah.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriTransferOutMutasiWilayah.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriPackingMutasiWilayahD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriPackingMutasiWilayah.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriSPKMutasiWilayahD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriSPKMutasiWilayah.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriRequestMutasiWilayahD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriRequestMutasiWilayah.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriRevisiBeliD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmCetakBarcode.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriPackingD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriPacking.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriPOD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriJualD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriMutasiGudangD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriMutasiGudang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriDO.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frBayarPiutang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frLUAlamat.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarBayarHutang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarPiutangPerCustomer.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriDOD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriSO.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriSOD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriSPKD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriSPK.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriUser.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.FrmGantiPassword.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmOtorisasiAdmin.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarAlamat.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLookUpKartuStok.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarBarang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriJual.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarJenisBarang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriLPBD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriLPB.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriPO.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriReturBeliD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriReturBeli.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarKartuStok.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmCetakMDI.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarMasterDetil.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriBeli.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriBeliD.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.FrmEntriMasterDetil.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarFilterTanggal.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.FrmEntriPembelian.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriKontak.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarTree.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.clsBarang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmGenerateFormH.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftar.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmGenerateForm.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLogin.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLookup.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmMain.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmPerbaikanPosting.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmSimpleEntri.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmMenu.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmSetting.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmShowImage.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.Resources.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmRubahJenisBarang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmSettingPerusahaan.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmBacaLogStockOpname.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmPindahKodeBarang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmSQLEditor.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarPPNMasukkan.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriPPNMasukkan.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\AHSRetail (Hartani).vbproj.GenerateResource.Cache
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPointRetailSystem.exe.licenses
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPointRetailSystem.exe
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPointRetailSystem.xml
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPointRetailSystem.pdb
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriTypeAsset.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarTransaksiAccounting.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frLaporanLabaRugi.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frLaporanMutasiBukuBesar.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frLaporanNeraca.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDaftarTypeAsset.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriAktivaTetap.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmTransferKasBank.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanRekapPenjualanPerDepartemenTahunan.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmDashBoard.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmCSVViewer.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanKartuHutangPerSupplier.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanPembelianPerDepartemenBulanan.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanPembelianPerSupplierBulanan.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmCetakXtraReport.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.XReport1.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriGroupSupplier.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanKartuHutangPerGroupSupplier.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanSaldoHutangPerSupplier.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriSaldoAwalHutangPiutang.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanReturPembelianPerSupplier.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanMutasiStock.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmOpsiExportFP.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\bin\Debug\VPointRetailSystem.exe.config
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\bin\Debug\VPointRetailSystem.exe
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\bin\Debug\VPointRetailSystem.pdb
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\bin\Debug\VPointRetailSystem.xml
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\bin\Debug\System.Data.SQLite.Linq.dll
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\bin\Debug\Interop.BarTender.dll
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\bin\Debug\Interop.CRUFLTBL.dll
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\ResolveAssemblyReference.cache
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\Interop.BarTender.dll
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\Interop.CRUFLTBL.dll
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\AHSRetail (Hartani).vbproj.ResolveComReference.cache
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frDaftarAktivaTetap.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frDaftarBukuBesar.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frDaftarPenyusutanAktiva.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frDaftarTypeAsset.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frEntriAktivaTetap.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frLaporanLabaRugi.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frLaporanMutasiBukuBesar.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frLaporanNeraca.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frLUKasBank.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarJurnalUmum.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarKasIN.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarKasOut.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarTransaksiAccounting.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarTypeAsset.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriAktivaTetap.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriAkun.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriJU.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriJUD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriKasBank.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriKasIN.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriKasIND.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriKasOut.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriKasOutD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriSubKlasAkun.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriTypeAsset.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLUAkun.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLUGudang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLUKas.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLUKlasAkun.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLUSubKlasAkun.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmNilaiAktivaTetap.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmTransferKasBank.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmViewJurnal.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriGroupSupplier.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarMutasiWilayah.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarUser.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDashBoard.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanMutasiStock.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanKartuHutangPerGroupSupplier.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanOmzetBonus.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanReturPembelianPerSupplier.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanPembelianPerSupplierBulanan.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanPembelianPerDepartemenBulanan.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanSaldoHutangPerSupplier.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanSaldoStok.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmServiceSQLServer.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmSettingApplikasi.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanStockOpnameD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarKartuStokVarian.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanSaldoStokPerVarian.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmReminder.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanKartuHutangPerSupplier.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanRekapPenjualanPerDepartemenTahunan.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriSaldoAwalHutangPiutang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriPembayaranPiutangOK.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriTransferPoin.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriPembayaranHutangOK.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmSettingAkunPenting.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLihatPenjualanGuide.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriReturBeliTanpaBarang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriBeliTanpaBarang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmBackupDatabase.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriTandaTerimaD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriTandaTerima.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmGenerateStockOpnamePerKategori.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanPenjualanPerDepartemen.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frBayarHutang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frLUBarangD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmImportDataPembelianBarang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmImportDataBarang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporan.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanDetilPenjualanPerCustomer.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanPenjualanPerJam.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanRekapPenjualanPerCustomer.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.FrmCekHargaBeli.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmGetQty.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanOmzetPerSupplierPerDepartemen.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmCekPoin.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanLabaKotorPerhari.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanLabaKotorPerBarang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.FrmCekHargaJual.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.FrmDownloadPenjualanKasir.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriTransferKodeBarangD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriTransferKodeBarang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriRevisiJual.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriRevisiJualD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriRuleMutasi.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmHasilPostingNonStock.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriRevisiBeli.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriStockOpnameD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriStockOpname.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanRekapPenjualanPerDepartemen.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanPembelianvsPenjualan.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmGeneratePO.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLaporanTopTenSales.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLookupMaterai.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLookUpPembelianDetil.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmSaldoPerGudang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriSaldoAwalPersediaanD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriSaldoAwalPersediaan.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriReturJualD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriReturJual.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmHasilPosting.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriPemakaianBarangD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriPemakaianBarang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriPenyesuaianBarangD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriPenyesuaianBarang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriTransferINMutasiWilayahD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriTransferINMutasiWilayah.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriTransferOutMutasiWilayah.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriPackingMutasiWilayahD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriPackingMutasiWilayah.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriSPKMutasiWilayahD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriSPKMutasiWilayah.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriRequestMutasiWilayahD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriRequestMutasiWilayah.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriRevisiBeliD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmCetakBarcode.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriPackingD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriPacking.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriPOD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriJualD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriMutasiGudangD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriMutasiGudang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriDO.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frBayarPiutang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frLUAlamat.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarBayarHutang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarPiutangPerCustomer.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriDOD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriSO.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriSOD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriSPKD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriSPK.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriUser.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.FrmGantiPassword.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmOtorisasiAdmin.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarAlamat.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLookUpKartuStok.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarBarang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriJual.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarJenisBarang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriLPBD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriLPB.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriPO.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriReturBeliD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriReturBeli.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarKartuStok.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmCetakMDI.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarMasterDetil.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriBeli.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriBeliD.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.FrmEntriMasterDetil.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarFilterTanggal.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.FrmEntriPembelian.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriKontak.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarTree.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.clsBarang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmGenerateFormH.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftar.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmGenerateForm.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLogin.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmLookup.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmMain.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmPerbaikanPosting.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmSimpleEntri.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmMenu.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmSetting.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmShowImage.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.Resources.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmRubahJenisBarang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmSettingPerusahaan.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmBacaLogStockOpname.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmPindahKodeBarang.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmSQLEditor.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmCSVViewer.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmDaftarPPNMasukkan.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmEntriPPNMasukkan.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmOpsiExportFP.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.frmCetakXtraReport.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPoint.XReport1.resources
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\AHSRetail (Hartani).vbproj.GenerateResource.Cache
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPointRetailSystem.exe.licenses
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPointRetailSystem.exe
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPointRetailSystem.xml
+D:\YANTO PROJECT\HARTANI\BACK OFFICE\Retail\obj\Debug\VPointRetailSystem.pdb
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmLaporanOmzetBonus.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmOpsiDiscPromo.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmBayar.resources
+F:\HARTANI\Atum30Juli2012\Retail\obj\Debug\VPoint.frmEntriJualPOS.resources

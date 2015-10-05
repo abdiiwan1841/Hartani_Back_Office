@@ -1,0 +1,50 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+VPointRetailSystem
+</name>
+</assembly>
+<members>
+<member name="M:VPoint.ExcelHandler.GetDataFromExcel(System.String)">
+	<summary>
+ Return data in dataset from excel file.
+ </summary>
+	<param name="a_sFilepath">Excel file name for extract data.</param>
+	<returns>DataSet</returns>
+</member><member name="M:VPoint.ExcelHandler.ExportToExcel(System.String,System.Data.DataSet,System.String,System.String@)">
+	<summary>
+ Write Excel file as given file name with given data.
+ </summary>
+	<param name="a_sFilename">full file name for create excel file.</param>
+	<param name="a_sData">data in dataset to be fill in excel shhet.</param>
+	<param name="a_sFileTitle">Title of Excel file.</param>
+	<param name="a_sErrorMessage">output parameter contains error message if error occurrs.</param>
+	<returns>bool</returns>
+</member><member name="M:VPoint.ExcelHandler.GetData(System.Data.DataTable)">
+	<summary>
+ returns data as two dimentional object array.
+ </summary>
+	<param name="a_dtData">DataTable of data.</param>
+	<returns>Object Array</returns>
+</member><member name="T:VPoint.ExcelHandler">
+	<summary>
+ Excel File handler used to read and write excel file.
+ </summary>
+	<remarks></remarks>
+</member><member name="P:VPoint.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:VPoint.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:VPoint.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

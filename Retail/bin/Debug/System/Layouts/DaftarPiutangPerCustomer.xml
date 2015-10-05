@@ -1,0 +1,80 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="Columns" iskey="true" value="7">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="VisibleIndex">0</property>
+      <property name="Visible">true</property>
+      <property name="Width">229</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Count</property>
+        <property name="DisplayFormat">{0:###,##0.00}</property>
+        <property name="FieldName">Customer</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">CCustomer</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="VisibleIndex">1</property>
+      <property name="Visible">true</property>
+      <property name="Width">39</property>
+      <property name="Name">cTelp</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="VisibleIndex">2</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="Name">cKontak</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="VisibleIndex">3</property>
+      <property name="Visible">true</property>
+      <property name="Width">52</property>
+      <property name="Name">cAlamat</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="VisibleIndex">4</property>
+      <property name="Visible">true</property>
+      <property name="Width">113</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">{0:###,##0.00}</property>
+        <property name="FieldName">BelumJT</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">cJumlahDiskon</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="VisibleIndex">5</property>
+      <property name="Visible">true</property>
+      <property name="Width">123</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">{0:###,##0.00}</property>
+        <property name="FieldName">SudahJT</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">cJumlahBayar</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="VisibleIndex">6</property>
+      <property name="Visible">true</property>
+      <property name="Width">107</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Sum</property>
+        <property name="DisplayFormat">{0:###,##0.00}</property>
+        <property name="FieldName">Total</property>
+        <property name="Tag" isnull="true" />
+      </property>
+      <property name="Name">cTotal</property>
+    </property>
+  </property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowFooter">true</property>
+    <property name="ShowGroupPanel">false</property>
+    <property name="ColumnAutoWidth">false</property>
+  </property>
+  <property name="MRUFilters">~Xtra#Base64AAEAAAD/////AQAAAAAAAAAMAgAAAF1EZXZFeHByZXNzLlh0cmFHcmlkLnYxMC4yLCBWZXJzaW9uPTEwLjIuOC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI4OGQxNzU0ZDcwMGU0OWEFAQAAADZEZXZFeHByZXNzLlh0cmFHcmlkLlZpZXdzLkJhc2UuTVJVVmlld0ZpbHRlckNvbGxlY3Rpb24BAAAAE0NvbGxlY3Rpb25CYXNlK2xpc3QDHFN5c3RlbS5Db2xsZWN0aW9ucy5BcnJheUxpc3QCAAAACQMAAAAEAwAAABxTeXN0ZW0uQ29sbGVjdGlvbnMuQXJyYXlMaXN0AwAAAAZfaXRlbXMFX3NpemUIX3ZlcnNpb24FAAAICAkEAAAAAgAAAAQAAAAQBAAAAAQAAAAJBQAAAAkGAAAADQIMBwAAAFlEZXZFeHByZXNzLkRhdGEudjEwLjIsIFZlcnNpb249MTAuMi44LjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjg4ZDE3NTRkNzAwZTQ5YQUFAAAAKURldkV4cHJlc3MuWHRyYUdyaWQuVmlld3MuQmFzZS5WaWV3RmlsdGVyAgAAABhmTm9uQ29sdW1uRmlsdGVyQ3JpdGVyaWETQ29sbGVjdGlvbkJhc2UrbGlzdAQDKkRldkV4cHJlc3MuRGF0YS5GaWx0ZXJpbmcuQ3JpdGVyaWFPcGVyYXRvcgcAAAAcU3lzdGVtLkNvbGxlY3Rpb25zLkFycmF5TGlzdAIAAAAKCQgAAAABBgAAAAUAAAAKCQkAAAABCAAAAAMAAAAJCgAAAAEAAAADAAAAAQkAAAADAAAACQsAAAABAAAAAwAAABAKAAAABAAAAAkMAAAADQMQCwAAAAQAAAAJDQAAAA0DDA4AAAAZRGV2RXhwcmVzcy5YdHJhR3JpZC52MTAuMgUMAAAAM0RldkV4cHJlc3MuWHRyYUdyaWQuVmlld3MuQmFzZS5WaWV3Q29sdW1uRmlsdGVySW5mbwIAAAAGRmlsdGVyBkNvbHVtbgQBLERldkV4cHJlc3MuWHRyYUdyaWQuQ29sdW1ucy5Db2x1bW5GaWx0ZXJJbmZvDgAAAA4AAAAJDwAAAAYQAAAACUNDdXN0b21lcgENAAAADAAAAAkRAAAACRAAAAAFDwAAACxEZXZFeHByZXNzLlh0cmFHcmlkLkNvbHVtbnMuQ29sdW1uRmlsdGVySW5mbwUAAAAEVHlwZQRLaW5kC0Rpc3BsYXlUZXh0DEZpbHRlclN0cmluZwVWYWx1ZQAAAQECCAgOAAAAAQAAAAEAAAAGEwAAAAAGFAAAABZbQ3VzdG9tZXJdIElzIE5vdCBOdWxsCgERAAAADwAAAAEAAAABAAAACRMAAAAGFgAAABRbQ3VzdG9tZXJdIDw+ICcnJycnJwoL</property>
+  <property name="ActiveFilterString">[Customer] Is Not Null</property>
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

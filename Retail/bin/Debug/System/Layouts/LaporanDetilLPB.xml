@@ -1,0 +1,332 @@
+﻿<XtraSerializer version="1.0" application="View">
+  <property name="#LayoutVersion" />
+  <property name="ActiveFilterEnabled">true</property>
+  <property name="OptionsView" isnull="true" iskey="true">
+    <property name="ShowGroupPanel">false</property>
+    <property name="ShowFooter">true</property>
+    <property name="ColumnAutoWidth">false</property>
+  </property>
+  <property name="Columns" iskey="true" value="47">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Width">36</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colNoID</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Width">63</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colTgl</property>
+    </property>
+    <property name="Item3" isnull="true" iskey="true">
+      <property name="Width">35</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colJam</property>
+    </property>
+    <property name="Item4" isnull="true" iskey="true">
+      <property name="Width">37</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIDLPB</property>
+    </property>
+    <property name="Item5" isnull="true" iskey="true">
+      <property name="Width">57</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIDBarang</property>
+    </property>
+    <property name="Item6" isnull="true" iskey="true">
+      <property name="Width">57</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIDSatuan</property>
+    </property>
+    <property name="Item7" isnull="true" iskey="true">
+      <property name="Width">60</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIDGudang</property>
+    </property>
+    <property name="Item8" isnull="true" iskey="true">
+      <property name="Width">36</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">6</property>
+      <property name="Name">colCtn</property>
+    </property>
+    <property name="Item9" isnull="true" iskey="true">
+      <property name="Width">35</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colQty</property>
+    </property>
+    <property name="Item10" isnull="true" iskey="true">
+      <property name="Width">63</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colHarga</property>
+    </property>
+    <property name="Item11" isnull="true" iskey="true">
+      <property name="Width">69</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colRevisiHarga</property>
+    </property>
+    <property name="Item12" isnull="true" iskey="true">
+      <property name="Width">70</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colDiscPersen1</property>
+    </property>
+    <property name="Item13" isnull="true" iskey="true">
+      <property name="Width">70</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colDiscPersen2</property>
+    </property>
+    <property name="Item14" isnull="true" iskey="true">
+      <property name="Width">70</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colDiscPersen3</property>
+    </property>
+    <property name="Item15" isnull="true" iskey="true">
+      <property name="Width">34</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colDisc1</property>
+    </property>
+    <property name="Item16" isnull="true" iskey="true">
+      <property name="Width">34</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colDisc2</property>
+    </property>
+    <property name="Item17" isnull="true" iskey="true">
+      <property name="Width">34</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colDisc3</property>
+    </property>
+    <property name="Item18" isnull="true" iskey="true">
+      <property name="Width">73</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colJumlah</property>
+    </property>
+    <property name="Item19" isnull="true" iskey="true">
+      <property name="Width">44</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIDLPBD</property>
+    </property>
+    <property name="Item20" isnull="true" iskey="true">
+      <property name="Width">41</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIDPOD</property>
+    </property>
+    <property name="Item21" isnull="true" iskey="true">
+      <property name="Width">103</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIDAkunPersediaan</property>
+    </property>
+    <property name="Item22" isnull="true" iskey="true">
+      <property name="Width">58</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">12</property>
+      <property name="Name">colCatatan</property>
+    </property>
+    <property name="Item23" isnull="true" iskey="true">
+      <property name="Width">46</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colNoUrut</property>
+    </property>
+    <property name="Item24" isnull="true" iskey="true">
+      <property name="Width">57</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colHargaPcs</property>
+    </property>
+    <property name="Item25" isnull="true" iskey="true">
+      <property name="Width">56</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">7</property>
+      <property name="Name">colQtyPcs</property>
+    </property>
+    <property name="Item26" isnull="true" iskey="true">
+      <property name="Width">43</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIDAsal</property>
+    </property>
+    <property name="Item27" isnull="true" iskey="true">
+      <property name="Width">50</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colKonversi</property>
+    </property>
+    <property name="Item28" isnull="true" iskey="true">
+      <property name="Width">78</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colIDServerAsal</property>
+    </property>
+    <property name="Item29" isnull="true" iskey="true">
+      <property name="Width">63</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colHargaPcs1</property>
+    </property>
+    <property name="Item30" isnull="true" iskey="true">
+      <property name="Width">52</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colQtyPcs1</property>
+    </property>
+    <property name="Item31" isnull="true" iskey="true">
+      <property name="Width">57</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">8</property>
+      <property name="Name">colSisaPcs</property>
+    </property>
+    <property name="Item32" isnull="true" iskey="true">
+      <property name="Width">58</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colKodeAlias</property>
+    </property>
+    <property name="Item33" isnull="true" iskey="true">
+      <property name="Width">84</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colNamaAlias</property>
+    </property>
+    <property name="Item34" isnull="true" iskey="true">
+      <property name="Width">72</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">4</property>
+      <property name="Name">colKodeStock</property>
+    </property>
+    <property name="Item35" isnull="true" iskey="true">
+      <property name="Width">191</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">5</property>
+      <property name="Name">colNamaStock</property>
+    </property>
+    <property name="Item36" isnull="true" iskey="true">
+      <property name="Width">43</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colSatuan</property>
+    </property>
+    <property name="Item37" isnull="true" iskey="true">
+      <property name="Width">90</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">0</property>
+      <property name="Name">colTanggal</property>
+      <property name="SummaryItem" isnull="true" iskey="true">
+        <property name="SummaryType">Count</property>
+        <property name="DisplayFormat">{0}</property>
+        <property name="FieldName">Tanggal</property>
+        <property name="Tag" isnull="true" />
+      </property>
+    </property>
+    <property name="Item38" isnull="true" iskey="true">
+      <property name="Width">65</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colKeterangan</property>
+    </property>
+    <property name="Item39" isnull="true" iskey="true">
+      <property name="Width">114</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">1</property>
+      <property name="Name">colNoSTB</property>
+    </property>
+    <property name="Item40" isnull="true" iskey="true">
+      <property name="Width">79</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">2</property>
+      <property name="Name">colKodeAlamat</property>
+    </property>
+    <property name="Item41" isnull="true" iskey="true">
+      <property name="Width">131</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">3</property>
+      <property name="Name">colNamaAlamat</property>
+    </property>
+    <property name="Item42" isnull="true" iskey="true">
+      <property name="Width">64</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">11</property>
+      <property name="Name">colIsPosted</property>
+    </property>
+    <property name="Item43" isnull="true" iskey="true">
+      <property name="Width">89</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">9</property>
+      <property name="Name">colNamaPegawai</property>
+    </property>
+    <property name="Item44" isnull="true" iskey="true">
+      <property name="Width">59</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">10</property>
+      <property name="Name">colPengirim</property>
+    </property>
+    <property name="Item45" isnull="true" iskey="true">
+      <property name="Width">45</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">13</property>
+      <property name="Name">colDari</property>
+    </property>
+    <property name="Item46" isnull="true" iskey="true">
+      <property name="Width">161</property>
+      <property name="Visible">true</property>
+      <property name="VisibleIndex">14</property>
+      <property name="Name">colGudang</property>
+    </property>
+    <property name="Item47" isnull="true" iskey="true">
+      <property name="Width">124</property>
+      <property name="VisibleIndex">-1</property>
+      <property name="Name">colWilayah</property>
+    </property>
+  </property>
+  <property name="Bands" iskey="true" value="2">
+    <property name="Item1" isnull="true" iskey="true">
+      <property name="Columns" iskey="true" value="47">
+        <property name="Item1">colNoID</property>
+        <property name="Item2">colTgl</property>
+        <property name="Item3">colJam</property>
+        <property name="Item4">colIDLPB</property>
+        <property name="Item5">colIDBarang</property>
+        <property name="Item6">colIDSatuan</property>
+        <property name="Item7">colIDGudang</property>
+        <property name="Item8">colTanggal</property>
+        <property name="Item9">colNoSTB</property>
+        <property name="Item10">colKodeAlamat</property>
+        <property name="Item11">colNamaAlamat</property>
+        <property name="Item12">colKodeStock</property>
+        <property name="Item13">colNamaStock</property>
+        <property name="Item14">colCtn</property>
+        <property name="Item15">colQty</property>
+        <property name="Item16">colHarga</property>
+        <property name="Item17">colRevisiHarga</property>
+        <property name="Item18">colDiscPersen1</property>
+        <property name="Item19">colDiscPersen2</property>
+        <property name="Item20">colDiscPersen3</property>
+        <property name="Item21">colDisc1</property>
+        <property name="Item22">colDisc2</property>
+        <property name="Item23">colDisc3</property>
+        <property name="Item24">colJumlah</property>
+        <property name="Item25">colIDLPBD</property>
+        <property name="Item26">colIDPOD</property>
+        <property name="Item27">colIDAkunPersediaan</property>
+        <property name="Item28">colNoUrut</property>
+        <property name="Item29">colHargaPcs</property>
+        <property name="Item30">colQtyPcs</property>
+        <property name="Item31">colIDAsal</property>
+        <property name="Item32">colKonversi</property>
+        <property name="Item33">colIDServerAsal</property>
+        <property name="Item34">colHargaPcs1</property>
+        <property name="Item35">colQtyPcs1</property>
+        <property name="Item36">colSisaPcs</property>
+        <property name="Item37">colKodeAlias</property>
+        <property name="Item38">colNamaAlias</property>
+        <property name="Item39">colSatuan</property>
+        <property name="Item40">colKeterangan</property>
+        <property name="Item41">colNamaPegawai</property>
+        <property name="Item42">colPengirim</property>
+        <property name="Item43">colIsPosted</property>
+        <property name="Item44">colCatatan</property>
+        <property name="Item45">colDari</property>
+        <property name="Item46">colGudang</property>
+        <property name="Item47">colWilayah</property>
+      </property>
+      <property name="Name">GridBand1</property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Width">1302</property>
+    </property>
+    <property name="Item2" isnull="true" iskey="true">
+      <property name="Visible">false</property>
+      <property name="Columns" iskey="true" value="0" />
+      <property name="Name">GridBand2</property>
+      <property name="Children" iskey="true" value="0" />
+      <property name="Width">119</property>
+    </property>
+  </property>
+  <property name="ActiveFilterString" />
+  <property name="GroupSummarySortInfoState" />
+</XtraSerializer>

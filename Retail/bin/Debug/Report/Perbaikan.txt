@@ -1,0 +1,7 @@
+Faktur Beli		= MBeli	->sudah
+Faktur Purchase Oreder	= MPO ->sudah
+Faktur Retur Pembelian	= MReturBeli ->sudah
+Surat Perintah Kerja	= MSPK ->sudah
+Surat Terima Barang	= MLPB ->sudah
+Bukti Perubahan Harga	= MRevisiHargaBeli ->sudah
+Surat Jalan		= MDO ->sudah
